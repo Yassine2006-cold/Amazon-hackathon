@@ -1,0 +1,20 @@
+[
+  {
+    "id": "example-biology",
+    "title": "Review biology chapter",
+    "course": "Biology",
+    "dueDate": "2026-10-20",
+    "priority": "high",
+    "estimateMinutes": 45,
+    "completed": false
+  },
+  {
+    "id": "example-history",
+    "title": "Prepare history notes",
+    "course": "History",
+    "dueDate": "2026-10-23",
+    "priority": "normal",
+    "estimateMinutes": 30,
+    "completed": false
+  }
+]

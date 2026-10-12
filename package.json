@@ -1,0 +1,18 @@
+{
+  "name": "studyflow-alexa-hackathon",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Local MCP server for the StudyFlow Alexa+ hackathon prototype",
+  "type": "module",
+  "scripts": {
+    "start": "node mcp-server.mjs",
+    "mcp": "node mcp-server.mjs"
+  },
+  "dependencies": {
+    "@modelcontextprotocol/express": "^2.0.0",
+    "@modelcontextprotocol/node": "^2.0.0",
+    "@modelcontextprotocol/server": "^2.0.0",
+    "express": "^5.1.0",
+    "zod": "^4.2.0"
+  }
+}
