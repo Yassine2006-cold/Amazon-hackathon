@@ -1,0 +1,29 @@
+[
+  {
+    "id": "example-biology",
+    "title": "Review biology chapter",
+    "course": "Biology",
+    "dueDate": "2026-10-20",
+    "priority": "high",
+    "estimateMinutes": 45,
+    "completed": false
+  },
+  {
+    "id": "example-history",
+    "title": "Prepare history notes",
+    "course": "History",
+    "dueDate": "2026-10-23",
+    "priority": "normal",
+    "estimateMinutes": 30,
+    "completed": false
+  },
+  {
+    "id": "cff434bb-09b1-4c08-bbd6-7777b92c24d5",
+    "title": "Refaire dans Excel le tableau des comptes et le bilan",
+    "course": "Économie",
+    "dueDate": "2026-10-12",
+    "priority": "high",
+    "estimateMinutes": 60,
+    "completed": false
+  }
+]
