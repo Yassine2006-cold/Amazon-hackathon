@@ -70,6 +70,15 @@ Yes, for a small educational prototype. The MCP server and Inspector made it pra
 
 Record an English video that is public on YouTube or Vimeo and shorter than three minutes. Show the running browser demo, add or complete an assignment, request a study plan, and show an MCP tool call working. State clearly that the Alexa+ conversation is simulated and that the server runs locally. Use no unlicensed music or third-party footage.
 
+### Suggested 2-minute narration and shots
+
+- **0:00–0:15 — Introduction.** “This is StudyFlow, a study companion that turns assignment deadlines and priorities into a focused plan. This is a simulated Alexa+ experience, running locally.” Show the app and assignment list.
+- **0:15–0:40 — Add work.** Add a sample assignment with a course, deadline, priority, and estimate. Show it appear in the list.
+- **0:40–1:10 — Make a plan.** Ask for a 45-minute study session. Show the plan and briefly explain that it fits tasks by deadline and priority.
+- **1:10–1:25 — Complete a task.** Mark one task complete and show the updated list.
+- **1:25–1:50 — Show MCP.** In a second terminal, use MCP Inspector to call `list_tasks` or `plan_study_session`. Show the result from the same task data.
+- **1:50–2:00 — Close.** “The browser demo and MCP tools share one local task list. The project includes setup instructions and can be run from the public repository.”
+
 ## Submission fields to fill in on Devpost
 
 - GitHub repository: https://github.com/Yassine2006-cold/Amazon-hackathon
