@@ -65,12 +65,11 @@ The server uses the official MCP JavaScript SDK. It does not use the Python MCP 
 
 ## Hackathon submission checklist
 
-- Enter the **Alexa+** track. This project demonstrates the simulated Alexa+ experience and includes an MCP server.
-- Upload the source repository and provide clear setup instructions (the steps above).
-- Record a public **English demo video under three minutes**. Show the web experience, then show one MCP tool call working.
-- Include a short project description and honest product feedback about the tools used, what worked, and what was difficult.
+- Enter the **Alexa+** track through the simulated-experience path. The browser chat is a simulation; the MCP server is local and is not connected to a live Alexa+ service.
+- The source repository is [github.com/Yassine2006-cold/Amazon-hackathon](https://github.com/Yassine2006-cold/Amazon-hackathon). It includes an MIT license and these setup instructions.
+- Record a public **English demo video under three minutes** on YouTube or Vimeo. Show the web experience and an MCP tool call working.
+- Fill in the project description and product feedback. A complete draft, including video guidance and testing instructions, is in [`SUBMISSION.md`](SUBMISSION.md).
 - Explain what was built or changed during the hackathon period.
-- If the repository is public, add an open-source license. If it is private, share it with the reviewers named in the official rules when submitting.
 
 ## Project status and limits
 
